@@ -23,6 +23,10 @@ Move your cursor over the device categories to show the name of the category in 
 10. Click the first host, PC0, and assign the cable to the **FastEthernet** connector.
 11. Click the second host, PC1, and assign the cable to the **FastEthernet** connector. The green dots at both ends of the cable indicate the correct cable type.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/78a2d0cf-0982-4509-9df9-72b6f16b5756" height="" width="100%" alt="100%" />
+</p>
+
 ## Step 2: Configure Host Names and IP Addresses on the PCs
 
 1. Click PC0. A PC0 window will appear.
@@ -41,6 +45,22 @@ Move your cursor over the device categories to show the name of the category in 
 14. Type `ping 192.168.1.2`. This is the address of the other computer.
 15. Close the PC-B configuration window by selecting the X in the upper right-hand corner.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b60f3773-3697-40b0-8f67-0543e3a15518" height="100%" width="100%" alt="" />
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/eb5e5d0f-80ff-4500-97ab-c9ad81a06bf9" height="100%" width="100%" alt="" />
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/18f293c4-233b-44e2-8d21-b145a86b78e3" height="100%" width="100%" alt="" />
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/57f5916a-c01d-42af-84a3-cad94cb63229" height="100%" width="100%" alt="" />
+</p>
+
 ## Step 3: Connect the Computers to a Switch
 
 1. Delete the Copper Cross-Over cable.
@@ -57,3 +77,7 @@ Move your cursor over the device categories to show the name of the category in 
 12. Click **Command Prompt**.
 13. Type `ping 192.168.1.1`. This is the address of the other computer.
 14. Click the **Check Results** button at the bottom of this instruction window to verify that the topology is correct.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/2450f174-d340-490f-8947-269a6e9583f1" height="" width="" alt="" />
+</p>
